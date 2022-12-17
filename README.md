@@ -2,7 +2,7 @@
 ### Welcome to School-Management-System Git Page.
 This Web Application developed using php,ajax,jquery.Custom Lay Architecture
 
-###*Admin features
+### Admin features
 * modify his admin  information with picture.
 * create, delete, and update teacher, staff, student, parent account information with picture.
 * add, delete, and update salary for employee (teacher, staff).
@@ -17,7 +17,7 @@ This Web Application developed using php,ajax,jquery.Custom Lay Architecture
 * student can search by also class and course.
 * show all unpaid student list this month.
 
-###Teacher features
+### Teacher features
 * update his/her account information with picture (no id and name).
 * add, delete, and update Report for his/her class student.
 * add, delete, and update student marks with his assigned courses.
@@ -31,19 +31,19 @@ This Web Application developed using php,ajax,jquery.Custom Lay Architecture
 * student can search by also his/her class and course.
 * show all student list absent days this month.
 
-###Student features
+### Student features
 * see his/her account information with picture (no edit).
 * See his/her Class all class with course teacher information, section, result.
 * student can see  his/her  current class and course Exam Schedule.
 * student see all attendance  days this month.
 
-###Staff features
+### Staff features
 * see account information with picture.
 * modify contact information and password.
 * see salary monthly and payable this month.
 * Attendance like this month absent present.
 
-###Parents features
+### Parents features
 * see account information with picture.
 * modify contact information and password.
 * see his/her students report.
