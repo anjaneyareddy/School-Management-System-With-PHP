@@ -54,6 +54,8 @@ This Web Application developed using php,ajax,jquery.Custom Lay Architecture
 ### Authors and Contributors
 
 ### 1. Anjaneya Reddy
-* [Anjaneya GitHub](https://github.com/anjaneyareddy) 
+* [GitHub](https://github.com/anjaneyareddy) 
+* [Facebook](https://facebook.com/anjaneyareddy.ch) 
+* [linkedin](https://www.linkedin.com/in/anjaneyareddy/) 
 
 # School-Management-System-With-PHP-MYSQL
