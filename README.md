@@ -8,7 +8,7 @@ This Web Application developed using php,ajax,jquery.Custom Lay Architecture
 * add, delete, and update salary for employee (teacher, staff).
 * add, delete, and update class, course, and exam schedule.
 * add, delete, and update attendance employee (teacher, staff).
-* (Student attendance will give by teacher)
+* Student attendance will give by teacher
 * generate report of each class Student passed/failed % result to evaluate teacher performance.
 * generate report Staff and Teacher (leaves and missing day’s (number of missing days per month) performance report).
 * Monthly Total Salary and payable salary Each Employee (individual) and All Employee (Total).
@@ -22,7 +22,7 @@ This Web Application developed using php,ajax,jquery.Custom Lay Architecture
 * add, delete, and update Report for his/her class student.
 * add, delete, and update student marks with his assigned courses.
 * add, delete, and update attendance student attendance.
-*          (Student attendance will give by teacher)
+* Student attendance will give by teacher
 * generate report of each class Student passed/failed % result to evaluate his/her Class.
 * generate report (leaves and missing day’s (number of missing days per month)) for check salary and his/her evaluation.
 * Monthly Total Salary and payable and omitted salary for absence.
